@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="password">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="products">Products</string>
+    <string name="total_purchase_value_forecast">Total Purchase value forecast</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="palacecode" translatable="false">PalaceCode</string>
+    <string name="username">Username</string>
+    <string name="cart">Cart</string>
+    <string name="values">Values</string>
+    <string name="total">Total</string>
+    <string name="order_notes">Order notes</string>
+    <string name="information">Information</string>
+    <string name="select_table">Select a table</string>
+    <string name="place_order">Place order</string>
+    <string name="quantity_order">Quantity order</string>
+    <string name="combo_recommendations">Combo recommendations</string>
+    <string name="home_screen">Home screen</string>
+    <string name="search">Search…</string>
+    <string name="your_cart_is_empty">Your Cart is Empty</string>
+    <string name="select_a_table_number">Select a table number</string>
+    <string name="select_a_table">Select a table</string>
+    <string name="table_selected_message">Table selected: %1$s</string>
+    <string name="invalid_table_number">Invalid table number</string>
+    <string name="error_id_func">Error getting Employee ID</string>
+    <string name="error_order_item">Failed to submit request for item:</string>
+    <string name="order_success">Orders sent successfully</string>
+    <string name="enter_valid">Enter a valid email and password!</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="incorrect_username_password">Incorrect Username or Password</string>
+    <string name="be_welcome">Be Welcome</string>
+    <string name="logout_success">Logout performed successfully</string>
+    <string name="employee_not_found">Employee not found</string>
+    <string name="added_to_cart">Added to your Cart</string>
+    <string name="clean_cart">Clean Cart</string>
+
+
+
+
+
+</resources>

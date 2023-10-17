@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="products">Products</string>
+    <string name="total_purchase_value_forecast">Total Purchase value forecast</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="palacecode">PalaceCode</string>
+    <string name="username">Username</string>
+    <string name="cart">Cart</string>
+    <string name="values">Values</string>
+    <string name="total">Total</string>
+    <string name="order_notes">Order notes</string>
+    <string name="information">Information</string>
+    <string name="select_table">Select a table</string>
+    <string name="place_order">Place order</string>
+    <string name="quantity_order">Quantity order</string>
+</resources>

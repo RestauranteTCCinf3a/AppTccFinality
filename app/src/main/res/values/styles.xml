@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="RatingBar" />
+
+    <style name="AutoCompleteTextView">
+        <item name="android:textColorHint">@color/second_text</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:textColorHint">@color/second_text</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+</resources>
